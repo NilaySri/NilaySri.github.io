@@ -1,0 +1,43 @@
+#section1{
+    padding: 24px;
+    background-color: cyan;
+    font-family: Arial, sans-serif;
+    position: absolute;
+    top: 1000px;
+}
+#section1body{
+    padding: 24px;
+    background-color: navy;
+    color:aliceblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    position: absolute;
+    top: 1100px;
+}
+#section2{
+    padding: 24px;
+    color:purple;
+    background-color: #f2a3f3;
+    font-family: Arial, sans-serif;
+    position: absolute;
+    top: 2000px;
+}
+
+#section2body{
+    padding: 24px;
+    color:magenta;
+    background-color: #f2a3f3;
+    font-family: Helvetica;
+    position: absolute;
+    top: 2100px;
+}
+#backButton{
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 15px;
+    background-color: whitesmoke;
+    color: black;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
